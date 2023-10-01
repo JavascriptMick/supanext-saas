@@ -6,6 +6,9 @@
 
 None Yet
 
+## Sister Project using Vue.js + Nuxt 3
+Sick of React/Next, why not try Vue.js/Nuxt3 sister project [SupaNuxt SaaS](https://github.com/JavascriptMick/supanuxt-saas)
+
 ## Community
 
 Discord [here](https://discord.gg/3hWPDTA4kD)
